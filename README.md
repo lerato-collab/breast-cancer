@@ -248,9 +248,9 @@ MIT License - Feel free to use for educational purposes
 ---
 
 ## 📞 Support
-- 📧 Email: your-email@example.com  
-- 💬 GitHub Issues: [Create Issue](https://github.com/yourusername/kaggle-breast-cancer-project/issues)
-- 📚 Kaggle Profile: [Your Kaggle Profile]()
+- 📧 Email: nkhumishelerato5@gmail.com  
+- 💬 GitHub Issues: [Create Issue](https://github.com/lerato-collab/kaggle-breast-cancer-project/issues)
+- 📚 Kaggle Profile: [https://www.kaggle.com/leratocollab]()
 
 ---
 
