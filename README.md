@@ -252,7 +252,4 @@ MIT License - Feel free to use for educational purposes
 - 💬 GitHub Issues: [Create Issue](https://github.com/lerato-collab/kaggle-breast-cancer-project/issues)
 - 📚 Kaggle Profile: [https://www.kaggle.com/leratocollab]()
 
----
-
-**Happy Coding! 🚀**
 
