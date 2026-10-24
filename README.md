@@ -1,47 +1,47 @@
 # breast-cancer
 The Breast Cancer Dataset on Kaggle is a valuable resource for researchers, data scientists, and machine learning enthusiasts, providing a binary classification task for predicting benign or malignant breast tumors from digitized images of fine needle aspirates.
-# 🎗️ Breast Cancer Prediction - Kaggle Project
+ Breast Cancer Prediction - Kaggle Project
 
-## 📋 Project Overview
+ Project Overview
 Complete machine learning pipeline for breast cancer diagnosis prediction using the Wisconsin Breast Cancer Dataset on Kaggle.
 
 **Dataset**: `/kaggle/input/breast-cancer-dataset/data.csv`
 **Goal**: Classify breast cancer tumors as malignant (M) or benign (B)
 **Target Accuracy**: >95%
 
----
 
-## 🗂️ Repository Structure
-```
+
+ Repository Structure
+
 kaggle-breast-cancer-project/
 │
-├── 📁 data/
+├──  data/
 │   ├── raw/                    # Original Kaggle dataset
 │   ├── processed/              # Cleaned datasets
 │   └── submissions/            # Kaggle submission files
 │
-├── 📁 notebooks/
+├──  notebooks/
 │   ├── main-analysis.ipynb     # Complete analysis notebook
 │   ├── eda-deep-dive.ipynb     # Extended exploratory analysis
 │   └── model-experiments.ipynb # Additional model testing
 │
-├── 📁 src/
+├──  src/
 │   ├── data_preprocessing.py   # Data cleaning functions
 │   ├── feature_engineering.py # Feature creation/selection
 │   ├── model_training.py       # Training pipeline
 │   ├── model_evaluation.py     # Evaluation metrics
 │   └── utils.py               # Helper functions
 │
-├── 📁 models/
+├──  models/
 │   ├── saved_models/          # Trained model files
 │   └── model_configs/         # Configuration files
 │
-├── 📁 results/
+├──  results/
 │   ├── figures/               # All plots and visualizations
 │   ├── reports/               # Analysis reports
 │   └── metrics/               # Performance metrics
 │
-├── 📁 docs/
+├──  docs/
 │   ├── methodology.md         # Approach explanation
 │   ├── results-summary.md     # Key findings
 │   └── kaggle-submission.md   # Submission details
@@ -54,7 +54,7 @@ kaggle-breast-cancer-project/
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### 1. **Kaggle Setup**
 ```bash
@@ -68,7 +68,7 @@ for dirname, _, filenames in os.walk('/kaggle/input'):
         print(os.path.join(dirname, filename))
 ```
 
-### 2. **Local Development Setup**
+ 2. **Local Development Setup**
 ```bash
 # Clone repository
 git clone https://github.com/yourusername/kaggle-breast-cancer-project.git
@@ -88,7 +88,7 @@ unzip breast-cancer-wisconsin-data.zip -d data/raw/
 
 ---
 
-## 📊 Notebook Structure (23 Cells)
+ Notebook Structure (23 Cells)
 
 ### **Section 1: Setup & Data Loading (Cells 1-4)**
 - Import libraries
@@ -127,7 +127,7 @@ unzip breast-cancer-wisconsin-data.zip -d data/raw/
 
 ---
 
-## 🎯 Expected Results
+##  Expected Results
 
 ### **Performance Targets**
 | Metric | Target | Expected |
@@ -145,7 +145,7 @@ unzip breast-cancer-wisconsin-data.zip -d data/raw/
 
 ---
 
-## 📁 Key Files
+##  Key Files
 
 ### **requirements.txt**
 ```txt
@@ -191,7 +191,7 @@ env/
 
 ---
 
-## 📈 Usage Instructions
+##  Usage Instructions
 
 ### **For Kaggle Competition:**
 1. Copy the notebook code into a new Kaggle notebook
@@ -207,7 +207,7 @@ env/
 
 ---
 
-## 🏆 Competition Strategy
+##  Competition Strategy
 
 ### **Phase 1: Baseline (Day 1)**
 - [ ] Load data and basic EDA
@@ -228,7 +228,7 @@ env/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 1. Fork the repository
 2. Create feature branch (`git checkout -b feature/new-model`)
 3. Commit changes (`git commit -m 'Add new model'`)
@@ -237,17 +237,17 @@ env/
 
 ---
 
-## 📄 License
+##  License
 MIT License - Feel free to use for educational purposes
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 - **UCI Machine Learning Repository** for the original dataset
 - **Kaggle** for hosting the competition
 - **Wisconsin Breast Cancer Database** creators
 
 ---
 
-## 📞 Support
+##  Support
 - 📧 Email: nkhumishelerato5@gmail.com  
 - 💬 GitHub Issues: [Create Issue](https://github.com/lerato-collab/kaggle-breast-cancer-project/issues)
 - 📚 Kaggle Profile: [https://www.kaggle.com/leratocollab]()
